@@ -6,12 +6,12 @@ package amanahbookingsystem;
 import java.util.*;
 
 /*TODO: 
-1. Search method utk resident by name or faculty 
-2. Update resident records (Use getters to check bilik to ada penghuni dulu, then bru update, tu tujuan getID() tu.)
-3. Delete resident records (Same method as above but kene copy whole array buat array baru. Look it up.)
-4. Check-in and check-out dates, just letak dlm superclass Resident tu.
-5. View residents by room or by block, use getRoom() utk tgk spe yg ada dlm satu bilik, getBlock() utk tgk brp org yg menduduki satu block tu.
-6. Room occupancy report by block, basically utk check brp bilik yg penuh utk satu block tu.
+1. Search method utk resident by name or faculty ------> Haris and Payri (Tgk balik chapter pasal String tu)
+2. Update resident records (Use getters to check bilik to ada penghuni dulu, then bru update, tu tujuan getID() tu.) ------> Ichad and Iban
+3. Delete resident records (Same method as above but kene copy whole array buat array baru. Look it up.) ------> Fauzan kot..... Aku ngan Haris ah
+4. Check-in and check-out dates, just letak dlm superclass Resident tu. ------> Iban
+5. View residents by room or by block, use getRoom() utk tgk spe yg ada dlm satu bilik, getBlock() utk tgk brp org yg menduduki satu block tu. ------> Ichad and Payri
+6. Room occupancy report by block, basically utk check brp bilik yg penuh utk satu block tu. ------> Pojan
 */
 
 public class Resident {
@@ -101,6 +101,7 @@ public class Resident {
     }
         
 }
+
 
 
 
